@@ -2,7 +2,7 @@ import pyperclip
 
 from tkinter import Tk
 
-# It's not important to complete all the addresses, just paste yours in the correct variable
+# It's not important to complete all the addresses, just re-paste yours in the correct variable
 
 btc_address_pubkey_hash_P2PKH = '1FfmbHfnpaZjKFvyi1okTjJJusN455paPH' # Pubkey hash (P2PKH address)
 
