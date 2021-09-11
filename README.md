@@ -5,7 +5,8 @@ Bitcoin address changer. It takes the address that's given to it and replaces th
 ![alt text](https://i.gyazo.com/6d54e11c08b01e472689bf8d52764882.png)
 ## Requirements
 
-**Python 3.9 (64-bit)**
+- **Python 3.9 (64-bit)**
+- **pyperclip**
 
 ## Installation
 
