@@ -1,5 +1,6 @@
 # BTC_address_changer
-Bitcoin address changer. It changes the clipboard depending of the pubkey.
+
+Bitcoin address changer. It takes the address that's given to it and replaces the present copied variable (clipboard) to the address variable of the python code. With more pubkeys more probabilities to get it right.
 
 ## Disclaimer
 
