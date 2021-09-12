@@ -2,7 +2,7 @@
 
 Bitcoin address changer. It takes the address that's given to it and replaces the present copied variable (clipboard) to the address variable of the python code. With more pubkeys more probabilities to get it right.
 
-![alt text](https://i.gyazo.com/6d54e11c08b01e472689bf8d52764882.png)
+![alt text](https://i.gyazo.com/5e97efdcdd0a13ab6f865b4b8e1ac404.png)
 ## Requirements
 
 - **Python 3.9 (64-bit)**
